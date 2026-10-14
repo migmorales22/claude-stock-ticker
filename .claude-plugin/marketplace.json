@@ -1,0 +1,6 @@
+{
+  "name": "claude-stock-ticker",
+  "owner": { "name": "migmorales22" },
+  "metadata": { "description": "stock-ticker: a Claude Code mod that keeps one stock's live price above the prompt." },
+  "plugins": [{ "name": "stock-ticker", "source": "./" }]
+}

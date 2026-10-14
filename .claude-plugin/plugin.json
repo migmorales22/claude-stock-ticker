@@ -1,0 +1,10 @@
+{
+  "name": "stock-ticker",
+  "version": "0.3.0",
+  "description": "/stock AAPL: a slim live row above the prompt with the price, the day's change and the last two hours' line, streamed from Yahoo Finance.",
+  "types": "./types/index.d.ts",
+  "author": { "name": "migmorales22", "url": "https://github.com/migmorales22" },
+  "homepage": "https://github.com/migmorales22/claude-stock-ticker",
+  "repository": "https://github.com/migmorales22/claude-stock-ticker",
+  "license": "MIT"
+}
